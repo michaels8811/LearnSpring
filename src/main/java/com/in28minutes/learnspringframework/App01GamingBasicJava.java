@@ -15,7 +15,7 @@ public class App01GamingBasicJava {
 		var gameRunner = new GameRunner(game); 
 			//2: Object Creation + Wiring of Dependencies
 			// Game is a Dependency of GameRunner
-		System.out.println("Game Runner");
+		System.out.println("Game Runner vIssue20");
 
 		gameRunner.run();
 
